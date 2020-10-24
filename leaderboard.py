@@ -7,7 +7,7 @@ import runnerutils
 
 print('processing Stockade 15k and 5k results')
 
-data=pd.read_csv('results/2020-10-18 2020 MVP Health Care Virtual Stockade-athon 15K and 5K Hudson Mohawk Road Runners Club.csv')
+data=pd.read_csv('results/2020-10-23 2020 MVP Health Care Virtual Stockade-athon 15K and 5K Hudson Mohawk Road Runners Club.csv')
 
 age_grader5=pd.read_csv('agegrade5.csv')
 age_grader15=pd.read_csv('agegrade15.csv')
@@ -54,6 +54,7 @@ def wrangleData(data, age_grader):
     data.age_grade=data.age_grade*100
     data.age_grade=data.age_grade.round(2)
     data=data.drop('seconds',axis=1)
+    data=data.drop('Distance',axis=1)
     data=data.reset_index(drop=True)
     data.index+=1
     data=data.fillna("")
