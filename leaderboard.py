@@ -7,7 +7,7 @@ import runnerutils
 
 print('processing Stockade 15k and 5k results')
 
-data=pd.read_csv('results/2020-10-23 2020 MVP Health Care Virtual Stockade-athon 15K and 5K Hudson Mohawk Road Runners Club.csv')
+data=pd.read_csv('results/2020-10-27 2020 MVP Health Care Virtual Stockade-athon 15K and 5K Hudson Mohawk Road Runners Club.csv')
 
 age_grader5=pd.read_csv('agegrade5.csv')
 age_grader15=pd.read_csv('agegrade15.csv')
@@ -55,6 +55,7 @@ def wrangleData(data, age_grader):
     data.age_grade=data.age_grade.round(2)
     data=data.drop('seconds',axis=1)
     data=data.drop('Distance',axis=1)
+    data=data.drop('State',axis=1)
     data=data.reset_index(drop=True)
     data.index+=1
     data=data.fillna("")
@@ -68,8 +69,9 @@ data15=wrangleData(data15,age_grader15);
 print(data15)
 
 def createMarkdown(data, category):
-    markdown='[Click here for age groups](https://bnorthan.github.io/Virtual15K_5K/'+category+'age)  \n\n'
-    markdown+='[Click here for age graded leaders](https://bnorthan.github.io/Virtual15K_5K/'+category+'age)  \n\n'
+    markdown="![image](hmrrc_65h.jpg) ![image](MVP-1.jpg)  ![image](FF_Logo_Stacked_7-150x118.jpg)  \n\n"
+    #markdown='[Click here for age groups](https://bnorthan.github.io/Virtual15K_5K/'+category+'age)  \n\n'
+    #markdown+='[Click here for age graded leaders](https://bnorthan.github.io/Virtual15K_5K/'+category+'age)  \n\n'
     markdown+=data.to_markdown()
     fname='leaderboard'+category+'.md'
     out_file=open(fname, "w")
