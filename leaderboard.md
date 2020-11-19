@@ -6,22 +6,26 @@
 
 
 ## Number participants for each company in 15K  
+  
 |                          |   Number |
 |:-------------------------|---------:|
 | Naval Nuclear Laboratory |        6 |  
   
 ## Number participants for each team in 15K  
+  
 |            |   Number |
 |:-----------|---------:|
 | Fleet Feet |        3 |
 | AREEP      |        1 |  
   
 ## Number participants for each company in 5K  
+  
 |                          |   Number |
 |:-------------------------|---------:|
 | Naval Nuclear Laboratory |        2 |  
   
 ## Number participants for each team in 5K  
+  
 |               |   Number |
 |:--------------|---------:|
 | Willow Street |        1 |  
