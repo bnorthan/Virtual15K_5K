@@ -27,5 +27,6 @@
 | 23 | Brian        | Northan      | m        |    45 | 33:10  |                          |               |       42.36 |
 | 24 | Valerie      | Burger       | f        |    25 | 36:07  |                          |               |       40.79 |
 | 25 | Julius       | pasquariello | m        |    60 | 38:43  |                          |               |       41    |
-| 26 | Raymond W    | Lee Jr       | m        |    78 | 46:39  |                          |               |       42.53 |
-| 27 | Jill         | Mehan        | f        |    65 | 48:56  |                          |               |       40.25 |
+| 26 | Fabby        | Estrada      | f        |    42 | 39:00  |                          |               |       39.29 |
+| 27 | Raymond W    | Lee Jr       | m        |    78 | 46:39  |                          |               |       42.53 |
+| 28 | Jill         | Mehan        | f        |    65 | 48:56  |                          |               |       40.25 |

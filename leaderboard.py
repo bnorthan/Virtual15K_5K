@@ -7,7 +7,7 @@ import runnerutils
 
 print('processing Stockade 15k and 5k results')
 
-data=pd.read_csv('results/2020-11-17 2020 MVP Health Care Virtual Stockade-athon 15K and 5K Hudson Mohawk Road Runners Club.csv')
+data=pd.read_csv('results/2020-11-19 2020 MVP Health Care Virtual Stockade-athon 15K and 5K Hudson Mohawk Road Runners Club.csv')
 
 age_grader5=pd.read_csv('agegrade5.csv')
 age_grader15=pd.read_csv('agegrade15.csv')
@@ -78,9 +78,37 @@ def createMarkdown(data, category):
     out_file.write(markdown)
     out_file.close()
     
+def countTeams(data, columnName, title):
+    teams=data[columnName].value_counts();
+    teams=teams.drop('')
+    teams=teams.rename('Number')
+    markdown=title+'  \n'
+    markdown+=teams.to_markdown()
+    return markdown
+    
 createMarkdown(data5, '5k')
 createMarkdown(data15, '15k')
 
+home="![image](hmrrc_65h.jpg) ![image](MVP-1.jpg)  ![image](FF_Logo_Stacked_7-150x118.jpg)  \n\n"  
+home+="## Virtual 15K and 5k Leaderboard  \n"
+home+="[Click here for 5k results](https://bnorthan.github.io/Virtual15K_5K/leaderboard5k)  \n"  
+home+="[Click here for 15k results](https://bnorthan.github.io/Virtual15K_5K/leaderboard15k)  \n"
+home+="\n\n"
+
+home+=countTeams(data15, 'Company', '## Number participants for each company in 15K')
+home+='  \n  \n'
+home+=countTeams(data15, 'Team', '## Number participants for each team in 15K')
+home+='  \n  \n'
+home+=countTeams(data5, 'Company', '## Number participants for each company in 5K')
+home+='  \n  \n'
+home+=countTeams(data5, 'Team', '## Number participants for each team in 5K')
+home+='  \n  \n'
+
+fname='leaderboard_.md'
+out_file=open(fname, "w")
+out_file.write(home)
+out_file.close()
+    
 '''
 
 fname='leaderboard.md'
