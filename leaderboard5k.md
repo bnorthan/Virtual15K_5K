@@ -24,9 +24,10 @@
 | 20 | Vibhu        | Sharma       | m        |    46 | 27:47  |                          |               |       50.96 |
 | 21 | Amy          | Cookfair     | f        |    27 | 28:15  |                          |               |       52.15 |
 | 22 | Eric         | Houghtaling  | m        |    60 | 28:45  |                          |               |       55.21 |
-| 23 | Brian        | Northan      | m        |    45 | 33:10  |                          |               |       42.36 |
-| 24 | Valerie      | Burger       | f        |    25 | 36:07  |                          |               |       40.79 |
-| 25 | Julius       | pasquariello | m        |    60 | 38:43  |                          |               |       41    |
-| 26 | Fabby        | Estrada      | f        |    42 | 39:00  |                          |               |       39.29 |
-| 27 | Raymond W    | Lee Jr       | m        |    78 | 46:39  |                          |               |       42.53 |
-| 28 | Jill         | Mehan        | f        |    65 | 48:56  |                          |               |       40.25 |
+| 23 | Elizabeth    | Selkis       | f        |    25 | 30:31  | Naval Nuclear Laboratory |               |       48.28 |
+| 24 | Brian        | Northan      | m        |    45 | 33:10  |                          |               |       42.36 |
+| 25 | Valerie      | Burger       | f        |    25 | 36:07  |                          |               |       40.79 |
+| 26 | Julius       | pasquariello | m        |    60 | 38:43  |                          |               |       41    |
+| 27 | Fabby        | Estrada      | f        |    42 | 39:00  |                          |               |       39.29 |
+| 28 | Raymond W    | Lee Jr       | m        |    78 | 46:39  |                          |               |       42.53 |
+| 29 | Jill         | Mehan        | f        |    65 | 48:56  |                          |               |       40.25 |
