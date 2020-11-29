@@ -23,11 +23,11 @@
   
 |                          |   Number |
 |:-------------------------|---------:|
-| Naval Nuclear Laboratory |        3 |  
+| Naval Nuclear Laboratory |        5 |  
   
 ## Number participants for each team in 5K  
   
 |               |   Number |
 |:--------------|---------:|
-| Willow Street |        1 |  
+| Willow Street |        2 |  
   
