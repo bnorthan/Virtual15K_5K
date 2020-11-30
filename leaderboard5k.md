@@ -21,18 +21,19 @@
 | 17 | paul         | bennett      | m        |    69 | Latham           | 24:27  |                          |               |       70.51 |
 | 18 | Ravi         | Chauhan      | m        |    44 | Albany           | 25:25  | Naval Nuclear Laboratory |               |       54.86 |
 | 19 | Nick         | Mosher       | m        |    40 | Loudonville      | 25:48  |                          |               |       52.45 |
-| 20 | Erika        | Oesterle     | f        |    69 | Stamford         | 26:54  |                          |               |       77.23 |
-| 21 | Bill         | Marinello    | m        |    61 | Slingerlands     | 26:65  |                          |               |       59.11 |
-| 22 | Erika        | Oesterle     | f        |    69 | Stamford         | 27:32  |                          |               |       75.45 |
-| 23 | John         | Sheehy       | m        |    63 | Menands          | 27:33  |                          |               |       59.15 |
-| 24 | Vibhu        | Sharma       | m        |    46 | ALBANY           | 27:47  |                          |               |       50.96 |
-| 25 | Amy          | Cookfair     | f        |    27 | Schenectady      | 28:15  |                          |               |       52.15 |
-| 26 | Eric         | Houghtaling  | m        |    60 | Delmar           | 28:45  |                          |               |       55.21 |
-| 27 | Elizabeth    | Selkis       | f        |    25 | Niskayuna        | 30:31  | Naval Nuclear Laboratory |               |       48.28 |
-| 28 | Brian        | Northan      | m        |    45 | Guidlerland      | 33:10  |                          |               |       42.36 |
-| 29 | Ralph        | Feinstein    | m        |    66 | Scotia           | 35:34  |                          |               |       47.07 |
-| 30 | Valerie      | Burger       | f        |    25 | Guilderland      | 36:07  |                          |               |       40.79 |
-| 31 | Julius       | pasquariello | m        |    60 | SCHENECTADY      | 38:43  |                          |               |       41    |
-| 32 | Fabby        | Estrada      | f        |    42 | Voorheesville    | 39:00  |                          |               |       39.29 |
-| 33 | Raymond W    | Lee Jr       | m        |    78 | Halfmoon         | 46:39  |                          |               |       42.53 |
-| 34 | Jill         | Mehan        | f        |    65 | TROY             | 48:56  |                          |               |       40.25 |
+| 20 | Bill         | Marinello    | m        |    62 | Slingerslands    | 26:36  |                          |               |       60.72 |
+| 21 | Erika        | Oesterle     | f        |    69 | Stamford         | 26:54  |                          |               |       77.23 |
+| 22 | Bill         | Marinello    | m        |    61 | Slingerlands     | 26:65  |                          |               |       59.11 |
+| 23 | Erika        | Oesterle     | f        |    69 | Stamford         | 27:32  |                          |               |       75.45 |
+| 24 | John         | Sheehy       | m        |    63 | Menands          | 27:33  |                          |               |       59.15 |
+| 25 | Vibhu        | Sharma       | m        |    46 | ALBANY           | 27:47  |                          |               |       50.96 |
+| 26 | Amy          | Cookfair     | f        |    27 | Schenectady      | 28:15  |                          |               |       52.15 |
+| 27 | Eric         | Houghtaling  | m        |    60 | Delmar           | 28:45  |                          |               |       55.21 |
+| 28 | Elizabeth    | Selkis       | f        |    25 | Niskayuna        | 30:31  | Naval Nuclear Laboratory |               |       48.28 |
+| 29 | Brian        | Northan      | m        |    45 | Guidlerland      | 33:10  |                          |               |       42.36 |
+| 30 | Ralph        | Feinstein    | m        |    66 | Scotia           | 35:34  |                          |               |       47.07 |
+| 31 | Valerie      | Burger       | f        |    25 | Guilderland      | 36:07  |                          |               |       40.79 |
+| 32 | Julius       | pasquariello | m        |    60 | SCHENECTADY      | 38:43  |                          |               |       41    |
+| 33 | Fabby        | Estrada      | f        |    42 | Voorheesville    | 39:00  |                          |               |       39.29 |
+| 34 | Raymond W    | Lee Jr       | m        |    78 | Halfmoon         | 46:39  |                          |               |       42.53 |
+| 35 | Jill         | Mehan        | f        |    65 | TROY             | 48:56  |                          |               |       40.25 |
