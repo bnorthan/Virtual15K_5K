@@ -15,15 +15,15 @@
   
 |                    |   Number |
 |:-------------------|---------:|
-| Fleet Feet         |        3 |
-| Adirondack Runners |        1 |
-| AREEP              |        1 |  
+| AREEP              |        4 |
+| Fleet Feet         |        4 |
+| Adirondack Runners |        1 |  
   
 ## Number participants for each company in 5K  
   
 |                          |   Number |
 |:-------------------------|---------:|
-| Naval Nuclear Laboratory |        5 |  
+| Naval Nuclear Laboratory |        6 |  
   
 ## Number participants for each team in 5K  
   
