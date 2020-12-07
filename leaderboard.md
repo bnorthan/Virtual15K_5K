@@ -15,8 +15,8 @@
   
 |                    |   Number |
 |:-------------------|---------:|
-| AREEP              |        4 |
 | Fleet Feet         |        4 |
+| AREEP              |        3 |
 | Adirondack Runners |        1 |  
   
 ## Number participants for each company in 5K  
