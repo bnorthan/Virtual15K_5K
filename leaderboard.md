@@ -15,7 +15,7 @@
   
 |                    |   Number |
 |:-------------------|---------:|
-| Fleet Feet         |        4 |
+| Fleet Feet         |        5 |
 | AREEP              |        3 |
 | Adirondack Runners |        1 |  
   
