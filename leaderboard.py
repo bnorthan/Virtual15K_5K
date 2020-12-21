@@ -7,7 +7,7 @@ import runnerutils
 
 print('processing Stockade 15k and 5k results')
 
-data=pd.read_csv('results/2020-12-11 2020 MVP Health Care Virtual Stockade-athon 15K and 5K Hudson Mohawk Road Runners Club.csv')
+data=pd.read_csv('results/2020-12-20 2020 MVP Health Care Virtual Stockade-athon 15K and 5K Hudson Mohawk Road Runners Club.csv')
 
 age_grader5=pd.read_csv('agegrade5.csv')
 age_grader15=pd.read_csv('agegrade15.csv')

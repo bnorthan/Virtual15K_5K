@@ -9,13 +9,13 @@
   
 |                          |   Number |
 |:-------------------------|---------:|
-| Naval Nuclear Laboratory |        7 |  
+| Naval Nuclear Laboratory |        8 |  
   
 ## Number participants for each team in 15K  
   
 |                    |   Number |
 |:-------------------|---------:|
-| Fleet Feet         |        5 |
+| Fleet Feet         |        6 |
 | AREEP              |        3 |
 | Adirondack Runners |        1 |  
   
@@ -29,5 +29,6 @@
   
 |               |   Number |
 |:--------------|---------:|
-| Willow Street |        2 |  
+| Willow Street |        3 |
+| AREEP         |        2 |  
   
