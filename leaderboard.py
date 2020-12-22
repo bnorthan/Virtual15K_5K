@@ -89,10 +89,20 @@ def countTeams(data, columnName, title):
 createMarkdown(data5, '5k')
 createMarkdown(data15, '15k')
 
+data5age=data5.sort_values('age_grade', axis=0, ascending=False);
+data15age=data15.sort_values('age_grade', axis=0, ascending=False);
+
+createMarkdown(data5, '5kage')
+createMarkdown(data15, '15kage')
+
+
 home="![image](hmrrc_65h.jpg) ![image](MVP-1.jpg)  ![image](FF_Logo_Stacked_7-150x118.jpg)  \n\n"  
 home+="## Virtual 15K and 5k Leaderboard  \n"
 home+="[Click here for 5k results](https://bnorthan.github.io/Virtual15K_5K/leaderboard5k)  \n"  
 home+="[Click here for 15k results](https://bnorthan.github.io/Virtual15K_5K/leaderboard15k)  \n"
+home+="[Click here for 5k age grade results](https://bnorthan.github.io/Virtual15K_5K/leaderboard5kage)  \n"  
+home+="[Click here for 15k age grade results](https://bnorthan.github.io/Virtual15K_5K/leaderboard15kage)  \n"
+
 home+="\n\n"
 
 home+=countTeams(data15, 'Company', '## Number participants for each company in 15K  \n')
