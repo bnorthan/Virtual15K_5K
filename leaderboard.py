@@ -92,8 +92,8 @@ createMarkdown(data15, '15k')
 data5age=data5.sort_values('age_grade', axis=0, ascending=False);
 data15age=data15.sort_values('age_grade', axis=0, ascending=False);
 
-createMarkdown(data5, '5kage')
-createMarkdown(data15, '15kage')
+createMarkdown(data5age, '5kage')
+createMarkdown(data15age, '15kage')
 
 
 home="![image](hmrrc_65h.jpg) ![image](MVP-1.jpg)  ![image](FF_Logo_Stacked_7-150x118.jpg)  \n\n"  
